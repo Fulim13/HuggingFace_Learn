@@ -5,3 +5,6 @@ This is my Hugging Face Learning Project
 ```
 pip install -r requirements.txt
 ```
+
+# References
+https://huggingface.co/learn/nlp-course/en/chapter1/1
